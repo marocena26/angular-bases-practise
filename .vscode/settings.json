@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "heroes",
-        "counter"
+        "counter",
+        "dbz"
     ]
 }
