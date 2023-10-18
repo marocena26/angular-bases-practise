@@ -1,5 +1,5 @@
+import { Characters } from './../interfaces/characters.interface';
 import { Component } from '@angular/core';
-import { Characters } from '../interfaces/characters.interface';
 
 @Component({
   selector: 'app-main-page',
@@ -21,4 +21,12 @@ export class MainPageComponent {
       power: 7500,
     },
   ];
+
+  public onNewCharacter(character: Characters): void {
+    this.characters.push(character);
+  }
+
+  public onDeleteCharacter(index: number): void {
+    this.characters.splice(index, 1);
+  }
 }
