@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "heroes",
         "counter",
-        "dbz"
+        "dbz",
+        "general"
     ]
 }
