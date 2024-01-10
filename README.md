@@ -44,7 +44,10 @@ The following tools have been used when solving the project:
 
 - ngIf and ngIf-else
 - One way data binding
-
+- @Inputs
+- @outputs
+- Services
+  
 ## 💾 Steps to follow to use this project on your computer:
 
 > This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
