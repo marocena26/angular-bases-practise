@@ -12,9 +12,9 @@ In the attached repository you will find all the challenges, just click [here](h
 
 In this repository you can find the files generated in the **Angular: de cero a experto** within **[Fernando Herrera Udemy](https://www.udemy.com/course/angular-fernando-herrera/)**.
 
-The aim of this project is to show the cities and states in the US that match the user's search.
+The purpose of this project is to display a list of characters from the Dragon Ball series in order to lay the groundwork for directives such as input and submit. The list can add and delete new characters.
 
-> **NOTE:** Direct link to the project by clicking on the following **[link](https://marocena26.github.io/JS30-challenges-type-ahead/)**.
+> **NOTE:** Direct link to the project by clicking on the following **[link](https://marocena26.github.io/angular-bases-practise/)**.
 
 ## 🛠️ Tools
 
@@ -32,6 +32,13 @@ The following tools have been used when solving the project:
   - Use of AngularCLI - Angular Command Line Interface
   - Directives created by Angular
   - ngIf and ngIf-else
+  - FormsModule
+  - ngModel
+  - @Inputs
+  - @outputs
+  - Services
+  - Methods in services
+  - Debugging
 
 ## 📖 What have I learned?
 
