@@ -2,11 +2,11 @@
 
 ## 👩🏻‍💻 Author 
 
-- **Mª Elena Arocena López: [@marocena26](https://github.com/marocena26)**
+- **Elena Arocena: [@marocena26](https://github.com/marocena26)**
 
 ## 👉🏻 Hey, look here! 
 
-In the attached repository you will find all the challenges, just click [here](https://github.com/marocena26/Angular-from-zero-to-expert) 😋.
+This project belongs to the series **Angular: de cero a experto**, in the attached repository you will find all the challenges finished so far, just click on [here](https://github.com/marocena26/Angular-from-zero-to-expert) 😋.
 
 ## 🚀 Introduction
 
